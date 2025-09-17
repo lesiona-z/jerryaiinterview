@@ -1,5 +1,7 @@
 # Intensity Segment
 
+[中文](README-zh.md)
+
 ## Problem Background
 
 **Problem Set**  
